@@ -1,8 +1,8 @@
 # University_Addmission_Predictor
 
 ### Individual Project:
-- Aman Raj\
-(https://github.com/Amanraj40)
+- Sumit Kumar\
+(https://github.com/sumit3161)
 
 
 ### About project:-
