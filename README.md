@@ -1,4 +1,4 @@
-# College_Addmission_Predictor
+# College_Admission_Predictor
 
 ### Individual Project:
 - Sumit Kumar\
